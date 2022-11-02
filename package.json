@@ -1,0 +1,23 @@
+{
+  "name": "sol-airdrop",
+  "version": "1.0.0",
+  "description": "solana airdrop",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agrim-Ani/sol-airdrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agrim-Ani/sol-airdrop/issues"
+  },
+  "homepage": "https://github.com/Agrim-Ani/sol-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2",
+    "solana": "^1.0.7-development"
+  }
+}
